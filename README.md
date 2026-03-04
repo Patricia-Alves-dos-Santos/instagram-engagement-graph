@@ -1,4 +1,3 @@
-TESTE README FUNCIONANDO
 📌 PROJETO – Modelagem de Banco de Dados em Grafos
 Sistema de Análise de Engajamento em Rede Social (Instagram)
 🎯 1. Contexto do Problema
